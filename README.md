@@ -33,6 +33,7 @@ Outputs: Received data is displayed on a 7-segment display, with the binary patt
 Verification: Hardware validation included both local loopback configurations and cross-board communication between two FPGAs. Oscilloscope measurements confirmed timing precision and signal integrity, with a measured bit width of ~8.7 µs, corroborating the 115200 baud rate. 📊
 
 👥 Team Members (Group 37)
+
 Weerakoon A.H.T.M. (230689A)
 
 Weerasinghe J.A.H.R. (230697V)
